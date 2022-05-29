@@ -1,0 +1,13 @@
+a:hover {
+    text-decoration: none;
+}
+
+button:focus{
+    background-color : #1ba94c;
+    color: #fff;
+}
+
+.btnactive{
+    background-color : #1ba94c;
+    color: #fff;
+}
